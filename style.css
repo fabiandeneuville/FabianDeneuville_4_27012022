@@ -679,6 +679,24 @@ a {
 p {
     font-size: 11px;
 }
+.citation{
+    width:70%;
+    margin:0 auto 0 auto;
+    font-size: 19px;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 1.4em;
+    color:black;
+}
+.auteur{
+    width:80%;
+    margin:0 auto 0 auto;
+    font-size: 14px;
+}
+legend{
+    font-size: 16px;
+    font-weight: 400;
+}
 
 .tight-width-whitespace {
     max-width: 600px;
