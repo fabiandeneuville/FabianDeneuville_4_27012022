@@ -513,7 +513,8 @@ button {
     box-shadow: none;
 }
 .required{
-    color:red;
+    color:crimson;
+    font-size: 25px;
 }
 
 .scrollToTop {
