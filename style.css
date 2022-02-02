@@ -670,6 +670,12 @@ a {
     color:#F3976C;
     text-shadow:1px 1px 1px black;
 }
+.hero-bloc-text-small{
+    font-size: 28px;
+    color:#F3976C;
+    font-weight: 700;
+    text-shadow:1px 1px 1px black;
+}
 
 .hero-bloc-text-sub {
     font-size: 36px;
