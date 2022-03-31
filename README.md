@@ -40,6 +40,4 @@ La fondatrice de l’agence nous sollicite pour effectuer un audit du site, nous
 
 <hr>
 
-Liens vers le site <a href="https://fabiandeneuville.github.io/La_chouette_agence_UNOPTIMIZED/">NON OPTIMISÉ</a>
-
 Liens vers le site <a href="https://fabiandeneuville.github.io/FabianDeneuville_4_27012022/">OPTIMISÉ</a>
